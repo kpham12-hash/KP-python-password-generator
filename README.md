@@ -8,7 +8,7 @@ A beginner Python project that generates random passwords.
 * For loops
 * String module
 
-##How it Works: 
+# How it Works: 
 
 1. The program prompts the user with "Password Length: " and takes a numeric input.
 2. It calls generate_password(length) passing the requested length.
@@ -16,6 +16,6 @@ A beginner Python project that generates random passwords.
 4. It iterates length times, picking a random character from the pool using random.choice() and appending it to the password string.
 5. Finally, the function returns the generated password, which is printed to the terminal. 
 
-## Example Output
+# Example Output
 Enter Password Length: 12
 k9#mP2!xL8$q
